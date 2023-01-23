@@ -1,0 +1,35 @@
+.anil
+{
+    background-image:url("https://www.banuba.com/hubfs/shutterstock_1651644223-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.login
+{
+    margin-left:700px;
+}
+.greet
+{
+    font-size:40px;
+    font-weight:bold;
+
+}
+.caution
+{
+    font-family: fantasy;
+    font-size: medium;
+}
+.bottom
+{
+    margin-top:50px;
+}
+.log
+{
+    font-size:60px;
+    color:rgb(62, 42, 61)
+}
+.uname
+{
+    font-weight: bold;
+}
